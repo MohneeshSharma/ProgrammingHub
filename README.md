@@ -1,6 +1,6 @@
 # ProgrammingHub
 
-##This is an Open Source Project under the MIT license
+## This is an Open Source Project under the MIT license
 
 A normal CLI tool for programmers.
 
